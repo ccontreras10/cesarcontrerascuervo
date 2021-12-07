@@ -95,15 +95,10 @@ body{
     display: flex;
     align-items: center;
     justify-content: center; 
-    transition: all 0.5s ease;
+  
 
 }
-.contenedor .related-post:hover{
-     cursor: pointer;
-     color:black;
-     background: white;
 
-}
 .contenedor .siguenos{
     margin-right: 15px;
     text-align: center;
